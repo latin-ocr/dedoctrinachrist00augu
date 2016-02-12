@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dedoctrinachrist00augu_0008.png"; bbox 0 0 1503 2465; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 580 1016 1157 1304">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 580 1016 1157 1304">
+     <span class='ocr_line' id='line_1_1' title="bbox 580 1016 1157 1304; baseline -0.005 -112"><span class='ocrx_word' id='word_1_1' title='bbox 580 1041 720 1203; x_wconf 59' lang='lat'>513</span> <span class='ocrx_word' id='word_1_2' title='bbox 641 1016 1005 1304; x_wconf 47' lang='lat' dir='ltr'>ys}</span> <span class='ocrx_word' id='word_1_3' title='bbox 1039 1017 1157 1157; x_wconf 54' lang='lat' dir='ltr'><em>ff</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 366 1425 856 1574">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 366 1425 863 1574">
+     <span class='ocr_line' id='line_1_2' title="bbox 366 1425 856 1574; baseline -0.002 -36"><span class='ocrx_word' id='word_1_4' title='bbox 366 1534 483 1574; x_wconf 97' lang='lat' dir='ltr'><em> </em></span> <span class='ocrx_word' id='word_1_5' title='bbox 710 1425 856 1538; x_wconf 51' lang='grc' dir='ltr'>Βῆ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 471 1566 973 1771">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 471 1566 973 1771">
+     <span class='ocr_line' id='line_1_3' title="bbox 471 1566 844 1651; baseline 0.043 -17"><span class='ocrx_word' id='word_1_6' title='bbox 471 1584 488 1634; x_wconf 79' lang='lat'><em>1</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 727 1566 844 1651; x_wconf 50' lang='grc' dir='ltr'><em>ὦ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 725 1676 973 1771; baseline 0.016 -5"><span class='ocrx_word' id='word_1_8' title='bbox 725 1676 973 1771; x_wconf 35' lang='grc' dir='ltr'>ἢμεξ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
